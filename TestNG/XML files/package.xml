@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "PackAutomate">
+    <test name = "TestAutomate">
+        <packages>
+            <package name = "testNg"/>
+            <package name = "packages"/>
+            
+        </packages>
+        
+        
+    </test>
+    
+</suite>

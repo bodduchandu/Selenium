@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name= "Automation">
+    <test name = "testing Automation">
+        <classes>
+            <class name = "testNg.SampleTestNG"/>
+            <class name = "testNg.Dependencies"/>
+            
+        </classes>
+        
+        
+    </test>
+    
+    
+</suite>
